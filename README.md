@@ -8,27 +8,27 @@ This repository provides **Python scripts to analyze Ethereum transactions**, in
 - ✅ **Gas Fee & Timing Analysis** – Understand when whales make transactions & how much they pay.  
 - ✅ **Stablecoin & DeFi Interaction** – Detect if whales or Binance are converting ETH to USDT, USDC, or using DeFi.
  
-🐋 Random Whale Analysis – Key Findings
+🐋 **Random Whale Analysis – Key Findings:**
 -✅ Whale Received More ETH Than Sent → This suggests accumulation, meaning the whale might be bullish on ETH.
 -✅ Major ETH Movements Detected → Large transactions show the whale is making strategic buys/sells instead of small trades.
 -✅ Gas Fee Spikes on Certain Days → High gas fees on specific days suggest the whale prioritizes speed for important transactions.
 -✅ Stablecoin Interactions → Some ETH was converted to USDT/USDC, possibly indicating profit-taking or risk management.
 -✅ Transaction Timing Matches Market Events → Whale activity aligns with big market movements, suggesting institutional involvement.
 
-🏦 Binance Wallet Analysis – Key Findings
+🏦 **Binance Wallet Analysis – Key Findings:**
 -✅ High ETH Inflow & Outflow → Binance is constantly receiving & sending ETH, indicating strong trading activity.
 -✅ Major ETH Sent to Stablecoin Contracts → Binance is likely converting ETH into USDT, USDC, or BUSD, meaning liquidity shifts.
 -✅ Gas Fees Show Peak Trading Hours → Binance processes large ETH movements during U.S. & European trading hours, following market cycles.
 -✅ Some Transactions Involve Whales → Some Binance transactions are linked to large whale addresses, meaning whales may be depositing/selling ETH.
 -✅ No Direct ETH → Stablecoin Swaps Found → Binance may be handling stablecoin conversions internally, without using on-chain swaps.
 
-⛽ Gas Fee & Transaction Timing Analysis – Key Findings
+⛽ **Gas Fee & Transaction Timing Analysis – Key Findings:**
 -✅ Whales Spend More Gas During Market Volatility → High gas usage correlates with major ETH price movements.
 -✅ Binance’s Gas Fees Show Trading Volume Spikes → Binance processes more transactions during key market hours.
 -✅ Certain Wallets Pay Extreme Gas Fees → Some transactions indicate urgent, high-priority trades, likely whales making big moves.
 -✅ Low Gas Fees on Weekends → Suggests whales & Binance reduce activity when trading volumes are lower.
 
-📌 Overall Summary
+📌 **Overall Summary:**
 -📊 Whales Accumulate ETH Before Market Surges – They buy more before price increases.
 -📊 Binance’s Transactions Align with Market Trends – Binance’s stablecoin activity & ETH movements reflect market conditions.
 -📊 Gas Fees Indicate Trading Volume & Urgent Transactions – High fees suggest whales & institutions are making big trades.
